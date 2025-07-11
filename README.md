@@ -32,6 +32,7 @@ A Shiny dashboard for the BC Injury Research and Prevention Unit's cost of injur
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
+
 ### Data Visualization Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![RShiny](https://img.shields.io/badge/RShiny-276DC3?style=flat&logo=r&logoColor=white)
@@ -47,6 +48,8 @@ A Shiny dashboard for the BC Injury Research and Prevention Unit's cost of injur
 ![tidyverse](https://img.shields.io/badge/tidyverse-276DC3?style=flat&logo=r&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![RStan](https://img.shields.io/badge/RStan-276DC3?style=flat&logo=r&logoColor=white)
+
 
 ### Databases
 ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat&logo=postgresql&logoColor=white)
